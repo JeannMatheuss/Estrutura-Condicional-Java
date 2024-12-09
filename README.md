@@ -1,18 +1,23 @@
-## Getting Started
+# Estrutura Condicional em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Continuando o conteúdo do livro, foi apresentado a Estrutura Condicional (`if`, `else if`, `else`) em Java, que permitem tomar decisões no código com base em condições específicas.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 📚 Conteúdo
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+1. **Exemplo - Determinando o Maior e Menor Número**  
+   - Este programa solicita dois números inteiros, compara-os e determina qual é o maior e o menor.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+2. **Exercícios**:
+   - **Classificando um Caractere**: Identifica se o caractere digitado é um dígito, letra (maiúscula ou minúscula), espaço ou outro símbolo.
+   - **Par ou Ímpar**: Verifica se um número digitado é par ou ímpar.
+   - **Sistema de Equações Lineares**: Resolve um sistema de duas equações lineares, considerando casos onde não há solução única.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+---
 
-## Dependency Management
+## 🚀 Como Usar
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git
